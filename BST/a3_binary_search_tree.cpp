@@ -1,5 +1,5 @@
-//Raphael Lopez 20656897	
-//Dawhan Kim 20688854
+//Raphael Lopez 	
+//Dawhan Kim 
 
 #include <iostream>
 #include <cmath>
