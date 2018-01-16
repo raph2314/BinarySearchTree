@@ -1,5 +1,5 @@
-//Raphael Lopez 20656897	
-//Dawhan Kim 20688854
+//Raphael Lopez 	
+//Dawhan Kim 
 
 #ifndef A3_AVL_TREE_HPP
 #define A3_AVL_TREE_HPP
